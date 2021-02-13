@@ -1,0 +1,36 @@
+.Banner-section {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.Banner-section .banner-img {
+  width: 100%;
+  height: 500px;
+}
+.description-section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 100%;
+}
+
+.title-section {
+  margin-top: 30px;
+  color: #ffffff;
+}
+
+.searchBar {
+  height: 48px;
+  border-radius: 0;
+}
+.searchBarBtn {
+  border-radius: 0;
+  background-color: rgb(85 1 19);
+  border-color: rgb(85 1 19);
+  color: #ffff;
+}
+.Banner-section .logo {
+  position: absolute;
+  top: 60px;
+}
